@@ -9,8 +9,8 @@ It uses AsyncTask to download data in the background and then parses XML to extr
 * A toggle menu to change the number of items displayed in the ListView.
 * A list of menu items to change the type of content displayed.
 
-<img src="S1.png" width="250" height="500">          <img src="S2.png" width="250" height="500">
+<img src="ScreenShots/S1.png" width="250" height="500">          <img src="ScreenShots/S2.png" width="250" height="500">
 
-<img src="S3.png" width="250" height="500">          <img src="S4.png" width="250" height="500">
+<img src="ScreenShots/S3.png" width="250" height="500">          <img src="ScreenShots/S4.png" width="250" height="500">
 
-<img src="S5.png" width="250" height="500">
+<img src="ScreenShots/S5.png" width="250" height="500">
